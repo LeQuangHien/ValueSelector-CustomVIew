@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SeletorCustomsView</string>
+    <string name="valueSelector_label">VALUE</string>
+    <string name="valueBarLabel">CURRENT VALUE</string>
+</resources>
